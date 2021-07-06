@@ -7,9 +7,9 @@ Analysis historical monthly sales data of a company. Created multiple forecast m
 ### Skills and Tools required :
 Exploratory Data Analysis for Time Series Data, Exponential Smoothing Models, ARIMA/SARIMA Models, Moving Average Models
 
-### Problem 1 : Rose Wine Forecasting
+##### Problem 1 : Rose Wine Forecasting
 
-### Problem 2 : Sparkling Wine Forecasting
+##### Problem 2 : Sparkling Wine Forecasting
 
 
 
